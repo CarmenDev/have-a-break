@@ -1,2 +1,2 @@
 # have-a-break
-Relaxer app
+CSS animations / setTimeout
